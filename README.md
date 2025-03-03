@@ -130,4 +130,8 @@ You can now perform Tekton development locally, just like in the Cloud IDE lab e
 
 Licensed under the Apache License. See [LICENSE](LICENSE)
 
+# DevOps Capstone Project
+
+![Build Status](https://github.com/vzdsfgs/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 ## <h3 align="center"> © IBM Corporation 2022. All rights reserved. <h3/>
